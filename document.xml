@@ -8,6 +8,7 @@
 </rdf:Description>
 </rdf:RDF>
 
+
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -56,7 +57,7 @@
             <p>These documents have been generated from 18thConnect's TypeWright tool and are based on the OCR output created by Gale/Cengage Learning for the Eighteenth Century Collections Online (ECCO) proprietary database product. The XSLT that converts the documents from Gale's OCR output XML format to TEI-A was written by Matthew Christy at the IDHMC, Texas A&amp;M University. The code is open source.
                         </p>
          </editorialDecl>
-      <appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-04-18T16:18:46.692Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc>
+      <appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-04-18T16:44:26.656Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc>
       <revisionDesc>
          <change n="1" when="2010-10" who="#BPZ">
             <label>Changed by</label>
